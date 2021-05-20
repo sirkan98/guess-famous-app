@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "./static/css/main.9d7d9a9c.chunk.css",
+    "main.js": "./static/js/main.721be344.chunk.js",
+    "main.js.map": "./static/js/main.721be344.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.7a278fdc.js",
+    "runtime-main.js.map": "./static/js/runtime-main.7a278fdc.js.map",
+    "static/js/2.2812dbdd.chunk.js": "./static/js/2.2812dbdd.chunk.js",
+    "static/js/2.2812dbdd.chunk.js.map": "./static/js/2.2812dbdd.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.9d7d9a9c.chunk.css.map": "./static/css/main.9d7d9a9c.chunk.css.map",
+    "static/js/2.2812dbdd.chunk.js.LICENSE.txt": "./static/js/2.2812dbdd.chunk.js.LICENSE.txt",
+    "static/media/cris.jpg": "./static/media/cris.03d12db5.jpg",
+    "static/media/haaland.jpg": "./static/media/haaland.8391a214.jpg",
+    "static/media/hazard.jpg": "./static/media/hazard.42aaae6f.jpg",
+    "static/media/messi.jpg": "./static/media/messi.a126cb91.jpg",
+    "static/media/neymar.jpg": "./static/media/neymar.d0b8791a.jpg",
+    "static/media/pique.jpg": "./static/media/pique.2142337f.jpg",
+    "static/media/salah.jpg": "./static/media/salah.21494e7c.jpg",
+    "static/media/samuel.9c7a8681.jpg": "./static/media/samuel.9c7a8681.jpg",
+    "static/media/suarez.jpg": "./static/media/suarez.03261c78.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a278fdc.js",
+    "static/js/2.2812dbdd.chunk.js",
+    "static/css/main.9d7d9a9c.chunk.css",
+    "static/js/main.721be344.chunk.js"
+  ]
+}
