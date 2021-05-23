@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "./static/css/main.66341880.chunk.css",
-    "main.js": "./static/js/main.a08db856.chunk.js",
-    "main.js.map": "./static/js/main.a08db856.chunk.js.map",
+    "main.css": "./static/css/main.9cc2b2a8.chunk.css",
+    "main.js": "./static/js/main.bbf84e7b.chunk.js",
+    "main.js.map": "./static/js/main.bbf84e7b.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.7a278fdc.js",
     "runtime-main.js.map": "./static/js/runtime-main.7a278fdc.js.map",
     "static/js/2.b1e2c29a.chunk.js": "./static/js/2.b1e2c29a.chunk.js",
     "static/js/2.b1e2c29a.chunk.js.map": "./static/js/2.b1e2c29a.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.66341880.chunk.css.map": "./static/css/main.66341880.chunk.css.map",
+    "static/css/main.9cc2b2a8.chunk.css.map": "./static/css/main.9cc2b2a8.chunk.css.map",
     "static/js/2.b1e2c29a.chunk.js.LICENSE.txt": "./static/js/2.b1e2c29a.chunk.js.LICENSE.txt",
     "static/media/aguero.jpg": "./static/media/aguero.9df72f66.jpg",
     "static/media/alexanderarnold.jpg": "./static/media/alexanderarnold.c2d4ae89.jpg",
@@ -48,7 +48,7 @@
   "entrypoints": [
     "static/js/runtime-main.7a278fdc.js",
     "static/js/2.b1e2c29a.chunk.js",
-    "static/css/main.66341880.chunk.css",
-    "static/js/main.a08db856.chunk.js"
+    "static/css/main.9cc2b2a8.chunk.css",
+    "static/js/main.bbf84e7b.chunk.js"
   ]
 }
